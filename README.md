@@ -36,8 +36,8 @@
 
 Simple react-native wallet connecting to localhost ganache
 
-Developed using:
--EthersJS
+Developed using:<br>
+-EthersJS<br>
 -Ganache (Local development)
 
 ## Getting Started
